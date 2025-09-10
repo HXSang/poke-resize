@@ -1,0 +1,2 @@
+python capture_pokecut_auth.py --out auth/auth_pokecut.json --chrome   
+python use_pokecut_auth.py --auth auth/auth_pokecut.json --chrome
