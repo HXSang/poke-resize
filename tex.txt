@@ -1,2 +1,0 @@
-python pokecut.py --input-dir ./input --output-dir ./output --preset custom --width 1080 --height 1350 --auth auth/auth_pokecut.json --chrome --concurrency 3 
-pyinstaller --onefile --noconsole frontend/pokecut_gui.py
